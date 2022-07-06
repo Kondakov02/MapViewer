@@ -1,1 +1,1 @@
-VGSCHmap
+MapViewer
